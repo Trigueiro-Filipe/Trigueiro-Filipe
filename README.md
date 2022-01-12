@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on projects with JS,Python (It can be others languages too)
 
 <div align="center">
-  <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Trigueiro-Filipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trigueiro-Filipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trigueiro-Filipe&layout=compact&langs_count=7&theme=dark"/>
